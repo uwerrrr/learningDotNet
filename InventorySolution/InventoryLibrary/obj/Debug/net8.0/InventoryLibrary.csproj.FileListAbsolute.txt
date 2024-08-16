@@ -1,0 +1,11 @@
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/bin/Debug/net8.0/InventoryLibrary.deps.json
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/bin/Debug/net8.0/InventoryLibrary.dll
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/bin/Debug/net8.0/InventoryLibrary.pdb
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.AssemblyInfoInputs.cache
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.AssemblyInfo.cs
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.csproj.CoreCompileInputs.cache
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.dll
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/refint/InventoryLibrary.dll
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/InventoryLibrary.pdb
+/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/Debug/net8.0/ref/InventoryLibrary.dll

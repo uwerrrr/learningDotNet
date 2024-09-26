@@ -1,0 +1,14 @@
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/bin/Debug/net8.0/Event
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/bin/Debug/net8.0/Event.deps.json
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/bin/Debug/net8.0/Event.runtimeconfig.json
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/bin/Debug/net8.0/Event.dll
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/bin/Debug/net8.0/Event.pdb
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.AssemblyInfoInputs.cache
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.AssemblyInfo.cs
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.csproj.CoreCompileInputs.cache
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.dll
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/refint/Event.dll
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.pdb
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/Event.genruntimeconfig.cache
+/Users/vannguyen/Downloads/DelegateAndEventAndMore/Event/obj/Debug/net8.0/ref/Event.dll

@@ -1,0 +1,6 @@
+﻿You are building an event-driven notification system for an online service. 
+
+The system allows users to subscribe to specific events, such as receiving notifications when a new message is received or when their order is shipped. 
+
+Multiple handlers (like sending an email, logging to the database, or showing an in-app alert) should respond to these events. 
+

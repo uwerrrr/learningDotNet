@@ -1,0 +1,7 @@
+﻿Activity: Building a Payment Processing Framework using Delegates
+Scenario:
+You are tasked with creating a Payment Processing Framework for an e-commerce platform. 
+Initially, the platform supports three payment methods: Credit Card, PayPal, and Bank Transfer. 
+However, the platform needs to be extensible to allow new payment methods (like Cryptocurrency or Apple Pay) without requiring major changes to the existing framework.
+
+You'll use delegates to enable this flexibility so that new payment methods can be added dynamically.

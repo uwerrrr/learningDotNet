@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/InventoryLibrary.csproj",
+      "projectUniqueName": "/Users/vannguyen/Library/Mobile Documents/com~apple~CloudDocs/<>iCloud cua Van/Work/Projects/Repos/learningDotNet/InventorySolution/InventoryLibrary/InventoryLibrary.csproj",
       "projectName": "InventoryLibrary",
-      "projectPath": "/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/InventoryLibrary.csproj",
+      "projectPath": "/Users/vannguyen/Library/Mobile Documents/com~apple~CloudDocs/<>iCloud cua Van/Work/Projects/Repos/learningDotNet/InventorySolution/InventoryLibrary/InventoryLibrary.csproj",
       "packagesPath": "/Users/vannguyen/.nuget/packages/",
-      "outputPath": "/Users/vannguyen/RiderProjects/InventorySolution/InventoryLibrary/obj/",
+      "outputPath": "/Users/vannguyen/Library/Mobile Documents/com~apple~CloudDocs/<>iCloud cua Van/Work/Projects/Repos/learningDotNet/InventorySolution/InventoryLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vannguyen/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

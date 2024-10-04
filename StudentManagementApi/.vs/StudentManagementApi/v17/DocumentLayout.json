@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\data\\studentmanagementapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\data\\studentmanagementapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hai nguyen\\source\\repos\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58AB6B-94CD-4F18-B3C4-6594C2EDA66A}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManagementApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Data\\StudentManagementApiContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Data\\StudentManagementApiContext.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Data\\StudentManagementApiContext.cs",
+              "RelativeToolTip": "StudentManagementApi\\Data\\StudentManagementApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagementApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:14.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hai Nguyen\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeToolTip": "StudentManagementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:24:03.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
